@@ -15,7 +15,9 @@ img {
   max-width: 100%;
   display: block;
 }
-h1,ul, p {
+h1,
+ul,
+p {
   margin: 0px;
 }
 .header-bg {
@@ -80,7 +82,7 @@ h1,ul, p {
   }
   .header-menu a {
     padding: 8px 12px;
-    font-size: ;
+    font-size: 14px;
   }
 }
 
