@@ -3,5 +3,7 @@
 @import "./global/header.css";
 /* Utilities */
 @import "./utilities/components.css";
+@import "./utilities/tipo.css";
+@import "./utilities/colors.css";
 /* Intro */
 @import "./home/intro.css";
